@@ -19,4 +19,4 @@
 - Search random gifs
 
 ## WireFrames
-![alt text](https://i.imgur.com/PJeOHY2.png "Homepage")
+![alt text](https://i.imgur.com/zIy2Qk0.png "Homepage")
