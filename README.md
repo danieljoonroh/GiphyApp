@@ -18,5 +18,5 @@
 - Displays trending gifs as a default homepage
 - Search random gifs
 
-## WireFrames
+## Wireframe
 ![alt text](https://i.imgur.com/zIy2Qk0.png "Homepage")
