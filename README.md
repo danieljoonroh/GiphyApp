@@ -16,7 +16,7 @@
 
 ## Features List
 - Displays trending gifs as a default homepage
-- Search find random gifs
+- Search random gifs
 
 ## WireFrames
 ![alt text](https://i.imgur.com/PJeOHY2.png "Homepage")
